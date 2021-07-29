@@ -2,6 +2,12 @@
 
 Split and transcode lossless image files in a blink of an eye.
 
+## Dependencies
+
+- `shnsplit`
+- `ffmpeg`
+- `id3v2`
+
 ## Build
 
 Creating an executable binary can be done with:
